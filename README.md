@@ -1,5 +1,22 @@
 #  💫 About Me: <br/><br/>
-![image](https://github.com/user-attachments/assets/2dae72d1-c3b3-4a5f-b159-09bc28c4c64d)<br><h1 align="center" style="margin: 0 auto;"> <br>  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="50" width="50" alt="Image">  Hey 👋, I'm Aditya Jatav   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="50" width="50" alt="Image"><br></h1><br><h3 align="center">A passionate Full Stack Web developer and Data Analyst and Civil Engineer from India</h3><br><br>
+![image](https://github.com/user-attachments/assets/2dae72d1-c3b3-4a5f-b159-09bc28c4c64d)
+<br>
+<h1 align="center" style="margin: 0 auto;">
+  <br> 
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="50" width="50" alt="Image">
+  Hey 👋, I'm Aditya Jatav  
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" height="50" width="50" alt="Image">
+  <br>
+</h1>
+
+<h3 align="center">A passionate Full Stack Web developer and Data Analyst and Civil Engineer from India</h3>
+<div align="center" style="margin: 0 auto;">
+ <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="200" >
+ <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="200" >
+ <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="200" >
+</div>
+
+<br><br>
 <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" height="250" width ="250">🎓 **Education:**  <br> I'm a BTech 3rd year Civil Engineering student at Motilal Nehru National Institute of Technology.<br><br> 💻 **Skills:**  <br>- **Programming Languages:** Python, C++, C, JavaScript<br>- **Web Development:** HTML, CSS, React, Node.js, Express.js, Tailwind CSS<br>- **Data Science and Analysis:** SQL, MongoDB, NumPy, Pandas, Matplotlib, Power BI, Excel<br>- **Tools:** Git & GitHub, Jupyter Notebooks, VSCode, Bravo for Power BI<br>- **Other Skills:** Data Structures and Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, Matlab<br><br>🌟 **Soft Skills:**  <br>Leadership, Management, Communication, Public Speaking, Critical Thinking, Collaboration<br><br>🔭 **Projects:**<br><br>- **Spotify Dashboard:**  <br>  🎵 Interactive Power BI dashboard with various charts and slicers for detailed insights.<br><br>- **Election Analysis Dashboard:**  <br>  🗳️ Comprehensive Power BI dashboard analyzing 2014 and 2019 election data with interactive visualizations.<br><br>- **Study Notion Project:**  <br>  📚 A comprehensive platform for organizing study materials and notes using Notion, enhancing productivity and learning efficiency.<br><br>📫 **Get in Touch:**  <br>Feel free to explore my repositories and connect with me on **Socials**!<br><br>
 
 ## 🌐 Socials:
